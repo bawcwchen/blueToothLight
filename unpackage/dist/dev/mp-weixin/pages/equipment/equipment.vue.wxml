@@ -1,0 +1,1 @@
+<import src="/components/uni-grid/uni-grid.vue.wxml" /><template name="824dea4c"><view class="_view 824dea4c"><template show-border="false" bindtap="handleProxy" data-eventid="{{'824dea4c-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'824dea4c-0'],$root}}" is="d1b72104"></template></view></template>

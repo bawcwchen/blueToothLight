@@ -1,0 +1,5 @@
+<import src="/components/uni-list/uni-list.vue.wxml" />
+<import src="/components/uni-list-item/uni-list-item.vue.wxml" />
+
+<template name="8427bfde-default-8427bfde-2"><template title="关于我们" bindtap="handleProxy" data-eventid="{{'8427bfde-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'8427bfde-0'],$root}}" is="3616382a"></template><template title="公司地址" bindtap="handleProxy" data-eventid="{{'8427bfde-1'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'8427bfde-1'],$root}}" is="3616382a"></template></template>
+
